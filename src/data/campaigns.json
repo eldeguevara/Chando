@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Primavera Radiante",
+    "descripcion": "Descuento en toda la línea de rostro y labios.",
+    "descuento": "20%",
+    "vigencia": "Hasta 30 Jun 2026",
+    "estado": "Activa"
+  },
+  {
+    "id": 2,
+    "nombre": "Combo Mirada Perfecta",
+    "descripcion": "Lleva paleta + máscara en oferta especial.",
+    "descuento": "2x1",
+    "vigencia": "Hasta 15 Jun 2026",
+    "estado": "Activa"
+  },
+  {
+    "id": 3,
+    "nombre": "Lanzamiento Sérum Vitamina C",
+    "descripcion": "Preventa exclusiva para minoristas aliados.",
+    "descuento": "15%",
+    "vigencia": "Inicia 01 Jul 2026",
+    "estado": "Próxima"
+  },
+  {
+    "id": 4,
+    "nombre": "Club de Fidelidad CHANDO",
+    "descripcion": "Acumula puntos por cada pedido digital.",
+    "descuento": "Puntos x2",
+    "vigencia": "Permanente",
+    "estado": "Activa"
+  }
+]

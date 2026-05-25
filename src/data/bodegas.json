@@ -1,0 +1,16 @@
+[
+  { "id": 1, "nombre": "Bodega Shanghái Central", "ciudad": "Shanghái", "capacidad": 80000, "ocupacionActual": 82, "estado": "activa" },
+  { "id": 2, "nombre": "Bodega Cantón Sur", "ciudad": "Cantón", "capacidad": 65000, "ocupacionActual": 74, "estado": "activa" },
+  { "id": 3, "nombre": "Bodega Pekín Norte", "ciudad": "Pekín", "capacidad": 60000, "ocupacionActual": 68, "estado": "activa" },
+  { "id": 4, "nombre": "Bodega Shenzhen Tech", "ciudad": "Shenzhen", "capacidad": 55000, "ocupacionActual": 91, "estado": "activa" },
+  { "id": 5, "nombre": "Bodega Hong Kong Port", "ciudad": "Hong Kong", "capacidad": 50000, "ocupacionActual": 77, "estado": "activa" },
+  { "id": 6, "nombre": "Bodega Singapur Hub", "ciudad": "Singapur", "capacidad": 48000, "ocupacionActual": 63, "estado": "activa" },
+  { "id": 7, "nombre": "Bodega Tokio Este", "ciudad": "Tokio", "capacidad": 42000, "ocupacionActual": 70, "estado": "activa" },
+  { "id": 8, "nombre": "Bodega Seúl Central", "ciudad": "Seúl", "capacidad": 40000, "ocupacionActual": 58, "estado": "mantenimiento" },
+  { "id": 9, "nombre": "Bodega Dubái Logística", "ciudad": "Dubái", "capacidad": 45000, "ocupacionActual": 66, "estado": "activa" },
+  { "id": 10, "nombre": "Bodega Los Ángeles West", "ciudad": "Los Ángeles", "capacidad": 52000, "ocupacionActual": 80, "estado": "activa" },
+  { "id": 11, "nombre": "Bodega Nueva York East", "ciudad": "Nueva York", "capacidad": 50000, "ocupacionActual": 72, "estado": "activa" },
+  { "id": 12, "nombre": "Bodega Londres Central", "ciudad": "Londres", "capacidad": 38000, "ocupacionActual": 61, "estado": "activa" },
+  { "id": 13, "nombre": "Bodega París Beauté", "ciudad": "París", "capacidad": 36000, "ocupacionActual": 55, "estado": "mantenimiento" },
+  { "id": 14, "nombre": "Bodega Ciudad de México", "ciudad": "Ciudad de México", "capacidad": 34000, "ocupacionActual": 69, "estado": "activa" }
+]

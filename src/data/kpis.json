@@ -1,0 +1,34 @@
+{
+  "ventasTotalesMes": { "valor": "CNY 530M", "delta": "50.8%", "trend": "up", "positivo": true },
+  "inventarioConsolidado": { "valor": "1.2M uds", "delta": "31%", "trend": "down", "positivo": true },
+  "tiempoPromedioDespacho": { "valor": "2 horas", "delta": "desde 1 semana", "trend": "down", "positivo": true },
+  "rotacionInventario": { "valor": "41% más rápida", "delta": "vs. proceso manual", "trend": "up", "positivo": true },
+  "ventasPorMes": [
+    { "mes": "Dic", "ventas": 350 },
+    { "mes": "Ene", "ventas": 390 },
+    { "mes": "Feb", "ventas": 420 },
+    { "mes": "Mar", "ventas": 455 },
+    { "mes": "Abr", "ventas": 495 },
+    { "mes": "May", "ventas": 530 }
+  ],
+  "ventasPorRegion": [
+    { "region": "China Oriental", "ventas": 185 },
+    { "region": "China Meridional", "ventas": 140 },
+    { "region": "China Septentrional", "ventas": 95 },
+    { "region": "Asia-Pacífico", "ventas": 70 },
+    { "region": "Internacional", "ventas": 40 }
+  ],
+  "topProductos": [
+    { "nombre": "Labial Mate Rouge Passion", "sku": "CH-MK-001", "ventas": 18200 },
+    { "nombre": "Máscara de Pestañas Volumen XXL", "sku": "CH-MK-004", "ventas": 15400 },
+    { "nombre": "Base Líquida Luminous Skin", "sku": "CH-MK-002", "ventas": 13100 },
+    { "nombre": "Sérum Vitamina C Iluminador", "sku": "CH-SK-001", "ventas": 11200 },
+    { "nombre": "Crema Hidratante Rosa Mosqueta", "sku": "CH-SK-002", "ventas": 9800 }
+  ],
+  "comparativoAntesDespues": [
+    { "metrica": "Procesamiento de pedidos", "antesReal": "1 semana", "despuesReal": "2 horas", "antesIdx": 100, "despuesIdx": 1, "mejora": "98.8%" },
+    { "metrica": "Tiempo de entrega", "antesReal": "1 mes", "despuesReal": "45 horas", "antesIdx": 100, "despuesIdx": 6, "mejora": "93.8%" },
+    { "metrica": "Bodegas operativas", "antesReal": "177", "despuesReal": "14", "antesIdx": 100, "despuesIdx": 8, "mejora": "92%" },
+    { "metrica": "Inventario excedente", "antesReal": "Línea base", "despuesReal": "−31%", "antesIdx": 100, "despuesIdx": 69, "mejora": "31%" }
+  ]
+}

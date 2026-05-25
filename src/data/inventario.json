@@ -1,0 +1,86 @@
+[
+  { "productoId": 1, "bodegaId": 1, "cantidad": 1800, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 5, "bodegaId": 1, "cantidad": 3200, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-23" },
+  { "productoId": 8, "bodegaId": 1, "cantidad": 950, "nivelMinimo": 900, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 3, "bodegaId": 1, "cantidad": 400, "nivelMinimo": 600, "ultimaActualizacion": "2026-05-20" },
+  { "productoId": 11, "bodegaId": 1, "cantidad": 1500, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 12, "bodegaId": 1, "cantidad": 80, "nivelMinimo": 350, "ultimaActualizacion": "2026-05-19" },
+
+  { "productoId": 1, "bodegaId": 2, "cantidad": 1200, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 6, "bodegaId": 2, "cantidad": 1400, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 2, "bodegaId": 2, "cantidad": 350, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-18" },
+  { "productoId": 7, "bodegaId": 2, "cantidad": 180, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-17" },
+  { "productoId": 5, "bodegaId": 2, "cantidad": 900, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-22" },
+
+  { "productoId": 2, "bodegaId": 3, "cantidad": 1100, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-19" },
+  { "productoId": 3, "bodegaId": 3, "cantidad": 2000, "nivelMinimo": 600, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 4, "bodegaId": 3, "cantidad": 35, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-16" },
+  { "productoId": 9, "bodegaId": 3, "cantidad": 320, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-23" },
+  { "productoId": 8, "bodegaId": 3, "cantidad": 1200, "nivelMinimo": 900, "ultimaActualizacion": "2026-05-21" },
+
+  { "productoId": 3, "bodegaId": 4, "cantidad": 2600, "nivelMinimo": 600, "ultimaActualizacion": "2026-05-23" },
+  { "productoId": 5, "bodegaId": 4, "cantidad": 2800, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-23" },
+  { "productoId": 8, "bodegaId": 4, "cantidad": 3800, "nivelMinimo": 900, "ultimaActualizacion": "2026-05-23" },
+  { "productoId": 6, "bodegaId": 4, "cantidad": 480, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-20" },
+  { "productoId": 1, "bodegaId": 4, "cantidad": 240, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-18" },
+
+  { "productoId": 1, "bodegaId": 5, "cantidad": 900, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-20" },
+  { "productoId": 4, "bodegaId": 5, "cantidad": 28, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-15" },
+  { "productoId": 9, "bodegaId": 5, "cantidad": 800, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 10, "bodegaId": 5, "cantidad": 0, "nivelMinimo": 250, "ultimaActualizacion": "2026-05-14" },
+  { "productoId": 2, "bodegaId": 5, "cantidad": 150, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-17" },
+
+  { "productoId": 7, "bodegaId": 6, "cantidad": 500, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-19" },
+  { "productoId": 11, "bodegaId": 6, "cantidad": 1800, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 12, "bodegaId": 6, "cantidad": 90, "nivelMinimo": 350, "ultimaActualizacion": "2026-05-16" },
+  { "productoId": 3, "bodegaId": 6, "cantidad": 250, "nivelMinimo": 600, "ultimaActualizacion": "2026-05-18" },
+  { "productoId": 5, "bodegaId": 6, "cantidad": 700, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-22" },
+
+  { "productoId": 12, "bodegaId": 7, "cantidad": 110, "nivelMinimo": 350, "ultimaActualizacion": "2026-05-16" },
+  { "productoId": 8, "bodegaId": 7, "cantidad": 850, "nivelMinimo": 900, "ultimaActualizacion": "2026-05-20" },
+  { "productoId": 1, "bodegaId": 7, "cantidad": 600, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 9, "bodegaId": 7, "cantidad": 120, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-15" },
+  { "productoId": 6, "bodegaId": 7, "cantidad": 520, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-21" },
+
+  { "productoId": 8, "bodegaId": 8, "cantidad": 2100, "nivelMinimo": 900, "ultimaActualizacion": "2026-05-16" },
+  { "productoId": 5, "bodegaId": 8, "cantidad": 1200, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-19" },
+  { "productoId": 4, "bodegaId": 8, "cantidad": 12, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-14" },
+  { "productoId": 11, "bodegaId": 8, "cantidad": 480, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-18" },
+  { "productoId": 2, "bodegaId": 8, "cantidad": 600, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-20" },
+
+  { "productoId": 4, "bodegaId": 9, "cantidad": 30, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-15" },
+  { "productoId": 9, "bodegaId": 9, "cantidad": 700, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 1, "bodegaId": 9, "cantidad": 350, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-19" },
+  { "productoId": 10, "bodegaId": 9, "cantidad": 0, "nivelMinimo": 250, "ultimaActualizacion": "2026-05-13" },
+  { "productoId": 7, "bodegaId": 9, "cantidad": 420, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-22" },
+
+  { "productoId": 6, "bodegaId": 10, "cantidad": 1200, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-20" },
+  { "productoId": 5, "bodegaId": 10, "cantidad": 1600, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 8, "bodegaId": 10, "cantidad": 700, "nivelMinimo": 900, "ultimaActualizacion": "2026-05-18" },
+  { "productoId": 12, "bodegaId": 10, "cantidad": 60, "nivelMinimo": 350, "ultimaActualizacion": "2026-05-15" },
+  { "productoId": 1, "bodegaId": 10, "cantidad": 110, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-16" },
+
+  { "productoId": 10, "bodegaId": 11, "cantidad": 0, "nivelMinimo": 250, "ultimaActualizacion": "2026-05-14" },
+  { "productoId": 3, "bodegaId": 11, "cantidad": 1300, "nivelMinimo": 600, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 2, "bodegaId": 11, "cantidad": 900, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 7, "bodegaId": 11, "cantidad": 150, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-17" },
+  { "productoId": 11, "bodegaId": 11, "cantidad": 600, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-20" },
+
+  { "productoId": 1, "bodegaId": 12, "cantidad": 700, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 5, "bodegaId": 12, "cantidad": 900, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 9, "bodegaId": 12, "cantidad": 280, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-19" },
+  { "productoId": 6, "bodegaId": 12, "cantidad": 240, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-18" },
+  { "productoId": 12, "bodegaId": 12, "cantidad": 50, "nivelMinimo": 350, "ultimaActualizacion": "2026-05-15" },
+
+  { "productoId": 9, "bodegaId": 13, "cantidad": 600, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 2, "bodegaId": 13, "cantidad": 500, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-20" },
+  { "productoId": 7, "bodegaId": 13, "cantidad": 380, "nivelMinimo": 400, "ultimaActualizacion": "2026-05-18" },
+  { "productoId": 11, "bodegaId": 13, "cantidad": 230, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-16" },
+  { "productoId": 4, "bodegaId": 13, "cantidad": 40, "nivelMinimo": 300, "ultimaActualizacion": "2026-05-15" },
+
+  { "productoId": 5, "bodegaId": 14, "cantidad": 1400, "nivelMinimo": 800, "ultimaActualizacion": "2026-05-22" },
+  { "productoId": 6, "bodegaId": 14, "cantidad": 800, "nivelMinimo": 500, "ultimaActualizacion": "2026-05-21" },
+  { "productoId": 3, "bodegaId": 14, "cantidad": 900, "nivelMinimo": 600, "ultimaActualizacion": "2026-05-20" },
+  { "productoId": 8, "bodegaId": 14, "cantidad": 400, "nivelMinimo": 900, "ultimaActualizacion": "2026-05-17" },
+  { "productoId": 12, "bodegaId": 14, "cantidad": 45, "nivelMinimo": 350, "ultimaActualizacion": "2026-05-15" }
+]

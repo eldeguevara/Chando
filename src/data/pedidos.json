@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "numeroPedido": "PED-2026-0001",
+    "minoristaId": "MIN-014",
+    "fecha": "2026-05-02",
+    "productos": [
+      { "productoId": 1, "cantidad": 20 },
+      { "productoId": 5, "cantidad": 40 }
+    ],
+    "estado": "entregado",
+    "bodegaAsignada": 1,
+    "total": 7760
+  },
+  {
+    "id": 2,
+    "numeroPedido": "PED-2026-0002",
+    "minoristaId": "MIN-007",
+    "fecha": "2026-05-05",
+    "productos": [
+      { "productoId": 6, "cantidad": 15 },
+      { "productoId": 8, "cantidad": 30 }
+    ],
+    "estado": "transito",
+    "bodegaAsignada": 2,
+    "total": 5145
+  },
+  {
+    "id": 3,
+    "numeroPedido": "PED-2026-0003",
+    "minoristaId": "MIN-021",
+    "fecha": "2026-05-08",
+    "productos": [
+      { "productoId": 9, "cantidad": 10 },
+      { "productoId": 10, "cantidad": 8 }
+    ],
+    "estado": "preparacion",
+    "bodegaAsignada": 5,
+    "total": 6240
+  },
+  {
+    "id": 4,
+    "numeroPedido": "PED-2026-0004",
+    "minoristaId": "MIN-003",
+    "fecha": "2026-05-11",
+    "productos": [
+      { "productoId": 2, "cantidad": 25 },
+      { "productoId": 3, "cantidad": 50 }
+    ],
+    "estado": "entregado",
+    "bodegaAsignada": 3,
+    "total": 8875
+  },
+  {
+    "id": 5,
+    "numeroPedido": "PED-2026-0005",
+    "minoristaId": "MIN-014",
+    "fecha": "2026-05-15",
+    "productos": [
+      { "productoId": 7, "cantidad": 12 },
+      { "productoId": 4, "cantidad": 18 }
+    ],
+    "estado": "confirmado",
+    "bodegaAsignada": 1,
+    "total": 4620
+  },
+  {
+    "id": 6,
+    "numeroPedido": "PED-2026-0006",
+    "minoristaId": "MIN-018",
+    "fecha": "2026-05-18",
+    "productos": [
+      { "productoId": 11, "cantidad": 40 },
+      { "productoId": 12, "cantidad": 20 }
+    ],
+    "estado": "transito",
+    "bodegaAsignada": 6,
+    "total": 9600
+  },
+  {
+    "id": 7,
+    "numeroPedido": "PED-2026-0007",
+    "minoristaId": "MIN-009",
+    "fecha": "2026-05-20",
+    "productos": [
+      { "productoId": 5, "cantidad": 60 },
+      { "productoId": 8, "cantidad": 45 }
+    ],
+    "estado": "preparacion",
+    "bodegaAsignada": 4,
+    "total": 9795
+  },
+  {
+    "id": 8,
+    "numeroPedido": "PED-2026-0008",
+    "minoristaId": "MIN-002",
+    "fecha": "2026-05-23",
+    "productos": [
+      { "productoId": 1, "cantidad": 30 },
+      { "productoId": 6, "cantidad": 22 },
+      { "productoId": 9, "cantidad": 5 }
+    ],
+    "estado": "confirmado",
+    "bodegaAsignada": 7,
+    "total": 11090
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "sku": "CH-SK-001",
+    "nombre": "Sérum Vitamina C Iluminador",
+    "categoria": "skincare",
+    "precio": 210,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Serum+Vit+C",
+    "stockTotal": 12400
+  },
+  {
+    "id": 2,
+    "sku": "CH-SK-002",
+    "nombre": "Crema Hidratante Rosa Mosqueta",
+    "categoria": "skincare",
+    "precio": 165,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Crema+Rosa",
+    "stockTotal": 9800
+  },
+  {
+    "id": 3,
+    "sku": "CH-SK-003",
+    "nombre": "Limpiador Facial Espuma Suave",
+    "categoria": "skincare",
+    "precio": 95,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Limpiador",
+    "stockTotal": 15600
+  },
+  {
+    "id": 4,
+    "sku": "CH-SK-004",
+    "nombre": "Contorno de Ojos Reafirmante",
+    "categoria": "skincare",
+    "precio": 140,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Contorno",
+    "stockTotal": 42
+  },
+  {
+    "id": 5,
+    "sku": "CH-MK-001",
+    "nombre": "Labial Mate Rouge Passion",
+    "categoria": "makeup",
+    "precio": 89,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Labial",
+    "stockTotal": 18200
+  },
+  {
+    "id": 6,
+    "sku": "CH-MK-002",
+    "nombre": "Base Líquida Luminous Skin",
+    "categoria": "makeup",
+    "precio": 145,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Base",
+    "stockTotal": 7400
+  },
+  {
+    "id": 7,
+    "sku": "CH-MK-003",
+    "nombre": "Paleta de Sombras Sunset Glow",
+    "categoria": "makeup",
+    "precio": 175,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Paleta",
+    "stockTotal": 3200
+  },
+  {
+    "id": 8,
+    "sku": "CH-MK-004",
+    "nombre": "Máscara de Pestañas Volumen XXL",
+    "categoria": "makeup",
+    "precio": 99,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Mascara",
+    "stockTotal": 21000
+  },
+  {
+    "id": 9,
+    "sku": "CH-FR-001",
+    "nombre": "Perfume Floral Élégance 50ml",
+    "categoria": "fragrance",
+    "precio": 320,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Elegance",
+    "stockTotal": 4100
+  },
+  {
+    "id": 10,
+    "sku": "CH-FR-002",
+    "nombre": "Eau de Parfum Nuit Dorée 50ml",
+    "categoria": "fragrance",
+    "precio": 380,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Nuit+Doree",
+    "stockTotal": 0
+  },
+  {
+    "id": 11,
+    "sku": "CH-FR-003",
+    "nombre": "Bruma Corporal Jardín Rosa",
+    "categoria": "fragrance",
+    "precio": 120,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Bruma",
+    "stockTotal": 9600
+  },
+  {
+    "id": 12,
+    "sku": "CH-FR-004",
+    "nombre": "Perfume Cítrico Fresh Bloom 30ml",
+    "categoria": "fragrance",
+    "precio": 240,
+    "imagen": "https://placehold.co/300x300/E91E63/white?text=Fresh+Bloom",
+    "stockTotal": 28
+  }
+]
